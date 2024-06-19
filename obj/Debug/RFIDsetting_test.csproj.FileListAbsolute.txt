@@ -1,0 +1,11 @@
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\RFIDsetting_test.csproj.AssemblyReference.cache
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\RFIDsetting_test.csproj.GenerateResource.cache
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\RFIDsetting_test.csproj.CoreCompileInputs.cache
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\WindowsFormsApp1.exe
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\bin\Debug\WindowsFormsApp1.exe
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\bin\Debug\ADRcpLib.dll
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\bin\Debug\ADSioLib.dll
+C:\Users\wilson.chen\source\repos\RFIDsetting_test\obj\Debug\RFIDsett.9E44639E.Up2Date
